@@ -1,0 +1,1 @@
+Machine Learning (ML) is a subfield of Artificial Intelligence (AI) that focuses on building algorithms and models that enable computers to learn from data and improve with experience without explicit programming for every task. In simple words, Machine Learning teaches systems to learn patterns and make decisions like humans by analyzing and learning from data.

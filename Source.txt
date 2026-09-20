@@ -1,0 +1,6 @@
+D1: https://jessup.edu/blog/engineering-technology/what-is-ai-and-machine-learning/
+D2: https://www.geeksforgeeks.org/machine-learning/types-of-machine-learning/
+D3: https://www.ismsports.org/blog/importance-of-sports-why-is-it-crucial-for-personal-growth
+D4: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+D5: https://www.coursera.org/articles/how-does-natural-language-processing-work
+D6: https://www.techtarget.com/enterprise-software/definition/What-is-speech-recognition
